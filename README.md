@@ -1,3 +1,3 @@
 # Result 
 
-[image](/typewritter.png)
+[image](./public/typewritter.png)
