@@ -1,3 +1,3 @@
 # Result:
 
-[image](./public/typewritter.png)
+![image](./public/typewritter.png)
