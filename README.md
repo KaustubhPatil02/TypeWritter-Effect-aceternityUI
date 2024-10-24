@@ -1,3 +1,3 @@
-# Result 
+# Result:
 
 [image](./public/typewritter.png)
